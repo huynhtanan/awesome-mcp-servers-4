@@ -3377,7 +3377,7 @@
   {
     "name": "Google Hotels",
     "url": "https://github.com/huynhtanan/google-hotels-mcp",
-    "description": "Live Google Hotels and Vacation Rentals search with per-OTA price comparison (Booking.com, Expedia, Vrbo, Hotels.com, Agoda, Trip.com, Tripadvisor), 3-month daily price calendar, and rate parity across booking sites.",
+    "description": "Live Google Hotels and Vacation Rentals search with per-OTA nightly rates (Booking.com, Expedia, Agoda, Vrbo, Airbnb, Hotels.com and 10+ other providers) plus a 3-month daily price calendar. Pay-per-use via Apify (bring your own APIFY_TOKEN).",
     "category": "finance-commerce-and-business-apps",
     "language": "Python",
     "provider": "Community",
